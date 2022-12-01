@@ -1,0 +1,67 @@
+.main{
+  background-color: gray;
+  padding: 5px;
+}
+
+.d-flex{
+  display:flex;
+  justify-content: space-between;
+}
+
+.width-third{
+  width: 33.33%;
+}
+
+.width-two-thirds{
+  width: 66.66%;
+}
+
+.box{
+  margin: 5px;
+  height: 150px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 5px solid #444;
+}
+
+.blue{
+  background-color: blue;
+}
+
+.yellow{
+  background-color: yellow;
+}
+
+.green{
+  background-color: green;
+}
+
+.red{
+  background-color: red;
+}
+
+.purple{
+  background-color: purple;
+}
+
+
+.box-1{
+  color: white;
+}
+
+.box-2{
+  color: black;
+}
+
+.box-3{
+  color: black;
+}
+
+.box-4{
+  color: black;
+}
+
+.box-5{
+  color: black;
+}
